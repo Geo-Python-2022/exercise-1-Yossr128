@@ -74,4 +74,4 @@ To complete this exercise, upload your changes to GitHub in your **own** Exercis
 
 ## Self Assessment 
 
-I think I did ok 
+I think I did ok. This was a fun exercise
